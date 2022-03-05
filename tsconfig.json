@@ -17,6 +17,6 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true
   },
-  "include": ["src/*", "assets/*"],
+  "include": ["src/*"],
   "exclude": ["node_modules"]
 }

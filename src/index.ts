@@ -3,8 +3,6 @@ import { uniqueNamesGenerator, colors, animals } from "unique-names-generator";
 import path from "path";
 import glob from "glob";
 
-import mockData from "../assets/mock.json";
-
 const app = express();
 
 const route = Router();
